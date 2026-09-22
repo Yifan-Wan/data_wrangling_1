@@ -1,1 +1,3 @@
-# data_wrangling_1
+# Data Wrangling 1
+
+Yifan Wan
